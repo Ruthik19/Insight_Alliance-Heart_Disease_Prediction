@@ -1,5 +1,5 @@
 # Insight_Alliance-Heart_Disease_Prediction
-# Heart Disease Prediction and Health Chatbot
+# Heart Disease Prediction and Health Chatbot.
 
 This project provides a **Heart Disease Prediction** system and a **Healthcare Chatbot** powered by machine learning and AI. The application consists of three main features:
 
